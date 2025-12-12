@@ -4,26 +4,6 @@
 
 I am a MERN Stack developer, I have experience in full-stack web development, including frontend and backend.  My expertise lies in React. js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills.  My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
 
-## 📈 Current Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ekhtiar-uddin&theme=dracula&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=ekhtiar-uddin&theme=dracula" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekhtiar-uddin&theme=dracula" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/most-commit-language?username=ekhtiar-uddin&theme=dracula" alt="Top Languages by Commit" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="Stats" />
-  <img src="https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=ekhtiar-uddin&theme=dracula&utcOffset=6" alt="Productive Time" />
-</p>
-
 ## ☕ Connect with me!  <br>
 
 <p align="center">
