@@ -6,9 +6,10 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 
 ## 📈 Current Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekhtiar-uddin&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ekhtiar-uddin&theme=dracula&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ekhtiar-uddin&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
+</div>
 
 ## ☕ Connect with me!  <br>
 
