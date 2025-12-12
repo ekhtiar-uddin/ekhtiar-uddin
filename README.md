@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/M.ekhthiar%20uddin. png "banner")
+![Banner !](/assets/M.ekhthiar%20uddin.png "banner")
 
 ## Hey there! <img src="https://i.ibb.co/D4WS6Fn/hello. gif" alt="Hi!" width="30"/>
 
