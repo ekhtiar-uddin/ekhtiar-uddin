@@ -7,9 +7,7 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 ## 📈 Current Stats
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ekhtiar-uddin&theme=dracula" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ekhtiar-uddin&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## ☕ Connect with me!  <br>
