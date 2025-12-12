@@ -6,19 +6,22 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 
 ## 📈 Current Stats
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com? user=ekhtiar-uddin&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=ekhtiar-uddin&theme=dracula" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com?user=ekhtiar-uddin&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=ekhtiar-uddin&theme=dracula&utcOffset=6" alt="Commit Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=ekhtiar-uddin&theme=dracula" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekhtiar-uddin&theme=dracula" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/most-commit-language?username=ekhtiar-uddin&theme=dracula" alt="Top Languages by Commit" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="Stats" />
+  <img src="https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=ekhtiar-uddin&theme=dracula&utcOffset=6" alt="Productive Time" />
 </p>
 
 ## ☕ Connect with me!  <br>
