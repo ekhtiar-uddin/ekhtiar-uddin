@@ -6,17 +6,19 @@ I am a MERN Stack developer, I have experience in full-stack web development, in
 
 ## 📈 Current Stats
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com? user=ekhtiar-uddin&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ekhtiar-uddin&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=ekhtiar-uddin&theme=dracula" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=ekhtiar-uddin&theme=dracula" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="Stats" width="400"/>
-  <img src="https://github-profile-summary-cards. vercel.app/api/cards/most-commit-language?username=ekhtiar-uddin&theme=dracula" alt="Top Languages" width="400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards. vercel.app/api/cards/productive-time?username=ekhtiar-uddin&theme=dracula&utcOffset=6" alt="Commit Time" />
 </p>
 
 ## ☕ Connect with me!  <br>
