@@ -46,13 +46,6 @@ Frontend-focused MERN stack developer building interfaces that are fast, accessi
 
 ---
 
-## Currently
-
-- 🔭 Strengthening backend fundamentals and system design
-- 🌱 Exploring relational databases — PostgreSQL, MySQL
-- ⚡ Open to junior frontend and full-stack opportunities
-
-
 ## 🌺 My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects:
