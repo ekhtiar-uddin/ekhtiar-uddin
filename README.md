@@ -52,77 +52,32 @@ Frontend-focused MERN stack developer building interfaces that are fast, accessi
 - 🌱 Exploring relational databases — PostgreSQL, MySQL
 - ⚡ Open to junior frontend and full-stack opportunities
 
----
-
-<div align="center">
-Open to junior frontend and full-stack roles, freelance collaborations, and open source contributions.
-</div>
 
 ## 🌺 My Portfolio
 
 Welcome to my portfolio! Below are the details of my three projects:
 
-## Project 1: 🚔 RentMode
+## RentMode — Smart Rental Housing Platform
 
-[Live Link of RentMode](https://basa-finder-client-two.vercel.app/)
+**Full-Stack Web Application** · [Live Demo →](https://basa-finder-client-two.vercel.app/)
 
-### 👉 Project Details
+A rental marketplace connecting landlords, tenants, and admins. Landlords post and manage listings; tenants search, filter, and request rentals; admins oversee the entire platform. Payment is unlocked for tenants once a landlord approves a request.
 
-### This is a full-stack web application that provides a smart rental housing solution. The platform connects landlords, tenants, and an admin who oversees both users and house listings.  Landlords can post and manage rental property listings, while tenants can search for, view, and request rentals. When a landlord approves a rental request, a payment option becomes available to the tenant, and the landlord can provide their phone number for further contact.
+**Key Features**
 
-**Features:**
-- Admin Email: admin@gmail.com
-- Admin Password: 12345678
-- Implemented smooth search and filtering functionality for finding the best-matching property
-- Developed an interactive maps feature to enhance the property search experience
-- Built role-based dashboard content access for admin, tenant, and landlord
-- Enabled tenants to apply for rentals and integrated SSLCommerz payment upon landlord approval
-- Secured authentication with MongoDB and JWT.  Users can manage settings and update password
-- Provided CRUD functionality for user management, property listings, and rental requests
+- **Role-based dashboards** — separate, permission-gated views for admin, landlord, and tenant roles
+- **Property search & filtering** — smart search with real-time filters to surface the best-matching listings
+- **Interactive maps** — location-aware property browsing to improve the search experience
+- **Rental request flow** — tenants apply for listings; approval triggers SSLCommerz payment and landlord contact sharing
+- **Authentication & security** — JWT-based auth with MongoDB; users can manage account settings and update passwords
+- **Full CRUD** — complete management of users, property listings, and rental requests
 
-## Project 2: 👮 BikeBari
+**Tech:** Next.js · Node.js · Express.js · MongoDB · JWT · SSLCommerz · Tailwind CSS
 
-[Live Link of BikeBari](https://bike-bari-6a.netlify.app/)
+> **Demo credentials** — Admin: `admin@gmail.com` / `12345678`
 
-### 👉 Project Details
+---
 
-### This is a Bike Shop application with user-friendly features, secure authentication, and smooth product management. The platform is responsive, error-free, and visually appealing. 
-
-**Features:**
-- Admin Email: admin@gmail.com
-- Admin Password: secure
-- Developed a responsive Bike Shop web application with role-based authentication using React
-- Displayed a charted dashboard showing revenue, latest transactions, total earnings, user spending, and more
-- Enabled admin to manage users, products, and orders
-- Integrated payment method (SurjoPay) for secure transactions
-- Allowed users to update their profile information
-
-## Project 3: 👭 CampusBite
-
-[Live Link of Hostel Management](https://hostel-management-3967.netlify.app/)
-
-### 👉 Project Details
-
-### A dynamic Hostel Management site built with the MERN stack, revolutionizing university meal services.  Explore meal categories, manage requests, and enjoy premium benefits with our membership packages.
-
-**Features:**
-- Admin Email: hero@hero.com
-- Admin Password: abcdNn&1
-- Authenticate users by Firebase Authentication
-- MongoDB CRUD Operation On (MEALS, UPCOMING MEALS, All route in dashboard layout)
-- Dashboard layout system to differ in regular user and admin
-- Stripe Payment Gateway system (Though no real money)
-- JWT implementation to protect private API
-
-## Technologies Utilized in the Trio of Projects
-
-- JavaScript
-- TypeScript
-- React.js
-- Redux
-- Next.js
-- Node.js
-- Express.js
-- MongoDB
-- Mongoose
-- Tailwind CSS
+<div align="center">
+Open to junior frontend and full-stack roles, freelance collaborations, and open source contributions.
+</div>
