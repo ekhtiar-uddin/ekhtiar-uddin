@@ -1,6 +1,6 @@
 <div align="center">
 
-# M. Ekhtiar Uddin
+# Muhammad Ekhtiar Uddin
 
 **Skilled Frontend Developer · MERN Stack Developer**
 
