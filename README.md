@@ -11,7 +11,6 @@ Chittagong, Bangladesh
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ektiar.niloy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:ektiaruddinniloy859@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ekhtiar-uddin&style=flat&color=0A66C2)](https://github.com/ekhtiar-uddin)
 
 </div>
 
