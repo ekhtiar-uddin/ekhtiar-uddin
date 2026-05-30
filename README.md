@@ -2,7 +2,7 @@
 
 # M. Ekhtiar Uddin
 
-**Junior Frontend Developer · MERN Stack Developer**
+**Skilled Frontend Developer · MERN Stack Developer**
 
 React.js · Next.js · Node.js · TypeScript · MongoDB
 
