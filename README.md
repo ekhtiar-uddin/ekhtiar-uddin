@@ -16,7 +16,7 @@ Chittagong, Bangladesh
 
 ---
 
-Frontend-focused MERN stack developer building interfaces that are fast, accessible, and production-ready — where clean component design meets real API integration. 3 months of remote professional experience and 1,000+ GitHub contributions since July 2023.
+Frontend focused MERN stack developer building interfaces that are fast, accessible, and production ready. I work where clean component design meets real API integration. 3 months of remote professional experience and 1,000+ GitHub contributions since July 2023.
 
 ---
 
@@ -39,7 +39,7 @@ Frontend-focused MERN stack developer building interfaces that are fast, accessi
 
 ## Tech Stack
 
-`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `Node.js` · `Express.js` · `MongoDB`
+`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `Node.js` · `Express.js` · `MongoDB` · `Prisma` · `PostgreSQL` ·
 `Tailwind CSS` · `Redux` · `Zustand` · `Context API` · `REST API` · `GraphQL`
 `Firebase` · `HTML5` · `CSS3` · `Git` · `GitHub` · `Figma`
 
