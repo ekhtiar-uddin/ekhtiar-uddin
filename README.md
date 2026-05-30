@@ -1,67 +1,62 @@
-![Banner !](/assets/M.ekhthiar%20uddin.png "banner")
+<div align="center">
 
-## Hey there!
+# M. Ekhtiar Uddin
 
-I am a MERN Stack developer, I have experience in full-stack web development, including frontend and backend.  My expertise lies in React. js, Tailwind CSS, Node.js, Express, and MongoDB. I have a strong foundation in JavaScript, HTML, and CSS, and have worked on various projects to hone my skills.  My vision is to continue learning and growing as a developer, staying updated with the latest trends and technologies in the MERN stack.
+**Junior Frontend Developer · MERN Stack Developer**
 
-## ☕ Connect with me!  <br>
+React.js · Next.js · Node.js · TypeScript · MongoDB
 
-<p align="center">
-  <a href="https://www.facebook.com/ektiar.niloy">
-    <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/facebook.svg" alt="Facebook Icon" title="Facebook icon with link">
-  </a>
-  <a href="https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/">
-    <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/linkedin.svg" alt="LinkedIn Icon" title="LinkedIn icon with link">
-  </a>
-  <a href="mailto: ektiaruddinniloy859@gmail.com">
-    <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/gmail.svg" alt="Gmail Icon" title="Gmail icon">
-  </a>
-</p>
+Chittagong, Bangladesh
 
-## 💻 My tech toolkit includes <br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ektiar.niloy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-ekhthiar-uddin-a5bb79229/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:ektiaruddinniloy859@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=ekhtiar-uddin&style=flat&color=0A66C2)](https://github.com/ekhtiar-uddin)
 
-<p align="center">
-    
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/js.svg" alt="JavaScript Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/ts.svg" alt="TypeScript Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/react.svg" alt="React Icon" width="40">&nbsp;&nbsp;
-  <img src="https://redux.js.org/img/redux. svg" alt="Redux Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/next.svg" alt="Next.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/nodejs.png" alt="Node.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://www.manektech.com/storage/developer/1646733543. webp" alt="express.js Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/mongo.svg" alt="MongoDB Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/tailwind.svg" alt="Tailwind Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/firebase.svg" alt="Firebase Icon" width="40">&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/ekhtiar-uddin/ekhtiar-uddin/main/assets/vs-code.png" alt="VS Code Icon" width="40">
-</p>
+</div>
 
-## 👀 Current overview
+---
 
-### ♥️ I enjoy programming and sharing knowledge
+Frontend-focused MERN stack developer building interfaces that are fast, accessible, and production-ready — where clean component design meets real API integration. 3 months of remote professional experience and 1,000+ GitHub contributions since July 2023.
 
-### 🔭 I'm working - To improve my Networking and Portfolio. 
+---
 
-### 🌱 I'm exploring - RDBMS. 
+## What I Do
 
-### 🤔 I'm trying - To build backend fundamental strongly. 
+- **Frontend development** — React.js, Next.js, TypeScript, Tailwind CSS; responsive and pixel-perfect UIs from Figma or from scratch.
+- **Full-stack MERN** — Node.js, Express.js, MongoDB; RESTful API integration, CRUD operations, and dashboard builds.
+- **State & architecture** — Redux, Zustand, Context API; scalable component structures built to grow with the product.
+- **Team collaboration** — worked inside a 5-developer team, integrating backend APIs and shipping maintainable, commented code.
 
-<br>
+---
 
-## 👤 Profile Summary
+## Selected Impact
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ekhtiar-uddin&theme=dracula" alt="GitHub Profile Summary Cards">
-</p>
+- **SKY TECHNOLOGIES LTD. *(Jun 2025 – Mar 2026)*** — Built a dynamic multi-category product form with conditional field rendering for a multivendor platform. Developed the full home page across **12 sections** and integrated **15+ CRUD APIs** — dashboard tables, detail pages, and reusable components — using Next.js, TypeScript, and Tailwind CSS.
+- **15+ Full-Stack Projects** — Personal and portfolio apps spanning e-commerce UIs, REST API integrations, and dashboard applications demonstrating end-to-end MERN capability.
+- **1,000+ GitHub Contributions** — Consistent development, testing, and deployment activity since July 2023.
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ekhtiar-uddin&theme=dracula" alt="Repos Per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ekhtiar-uddin&theme=dracula" alt="Most Commit Language">
-</p>
+---
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ekhtiar-uddin&theme=dracula" alt="Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ekhtiar-uddin&theme=dracula&utcOffset=6" alt="Productive Time">
-</p>
+## Tech Stack
+
+`JavaScript` · `TypeScript` · `React.js` · `Next.js` · `Node.js` · `Express.js` · `MongoDB`
+`Tailwind CSS` · `Redux` · `Zustand` · `Context API` · `REST API` · `GraphQL`
+`Firebase` · `HTML5` · `CSS3` · `Git` · `GitHub` · `Figma`
+
+---
+
+## Currently
+
+- 🔭 Strengthening backend fundamentals and system design
+- 🌱 Exploring relational databases — PostgreSQL, MySQL
+- ⚡ Open to junior frontend and full-stack opportunities
+
+---
+
+<div align="center">
+Open to junior frontend and full-stack roles, freelance collaborations, and open source contributions.
+</div>
 
 ## 🌺 My Portfolio
 
